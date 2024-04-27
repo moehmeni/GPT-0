@@ -1,5 +1,5 @@
-# GPT-diag
-Implementation of a generative pre-trained transformer model (GPT) in JAX
+# GPT-0
+Implementation of Generative pre-trained transformer using only NumPy (JAX for backprop)
 
-## GPT Architecture
+## Visual Guide
 <image src="https://upload.wikimedia.org/wikipedia/commons/9/91/Full_GPT_architecture.png" width="500px"/>
